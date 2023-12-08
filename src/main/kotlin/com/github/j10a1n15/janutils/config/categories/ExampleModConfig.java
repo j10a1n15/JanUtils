@@ -1,6 +1,6 @@
-package com.example.config.categories;
+package com.github.j10a1n15.janutils.config.categories;
 
-import com.example.ExampleMod;
+import com.github.j10a1n15.janutils.ExampleMod;
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.Config;
 import io.github.moulberry.moulconfig.annotations.Category;

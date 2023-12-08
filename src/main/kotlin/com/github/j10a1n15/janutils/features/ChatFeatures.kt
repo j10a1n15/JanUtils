@@ -1,7 +1,7 @@
-package com.example.features
+package com.github.j10a1n15.janutils.features
 
-import com.example.ExampleMod
-import com.example.utils.ChatUtils
+import com.github.j10a1n15.janutils.ExampleMod
+import com.github.j10a1n15.janutils.utils.ChatUtils
 import net.minecraftforge.client.event.ClientChatReceivedEvent
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent
 

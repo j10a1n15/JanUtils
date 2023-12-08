@@ -1,4 +1,4 @@
-package com.example.config.categories;
+package com.github.j10a1n15.janutils.config.categories;
 
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.annotations.ConfigEditorBoolean;

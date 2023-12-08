@@ -1,8 +1,8 @@
-package com.example.commands
+package com.github.j10a1n15.janutils.commands
 
-import com.example.ExampleMod
-import com.example.commands.SimpleCommand.ProcessCommandRunnable
-import com.example.utils.ChatUtils
+import com.github.j10a1n15.janutils.ExampleMod
+import com.github.j10a1n15.janutils.commands.SimpleCommand.ProcessCommandRunnable
+import com.github.j10a1n15.janutils.utils.ChatUtils
 import net.minecraft.command.ICommandSender
 import net.minecraft.util.BlockPos
 import net.minecraftforge.client.ClientCommandHandler
